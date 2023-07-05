@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veter", "veter.csproj", "{12EFE882-B61A-4BA6-95EC-F29C4345806D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EFE882-B61A-4BA6-95EC-F29C4345806D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EFE882-B61A-4BA6-95EC-F29C4345806D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EFE882-B61A-4BA6-95EC-F29C4345806D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EFE882-B61A-4BA6-95EC-F29C4345806D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB6D68F2-E886-4D91-B984-D2AE4A9EA8B4}
+	EndGlobalSection
+EndGlobal

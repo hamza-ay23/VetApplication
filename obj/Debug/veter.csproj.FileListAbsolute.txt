@@ -1,0 +1,12 @@
+C:\Cproject\veter\bin\Debug\veter.exe.config
+C:\Cproject\veter\bin\Debug\veter.exe
+C:\Cproject\veter\bin\Debug\veter.pdb
+C:\Cproject\veter\obj\Debug\veter.csproj.AssemblyReference.cache
+C:\Cproject\veter\obj\Debug\veter.csproj.SuggestedBindingRedirects.cache
+C:\Cproject\veter\obj\Debug\veter.Form1.resources
+C:\Cproject\veter\obj\Debug\veter.HastaKayit.resources
+C:\Cproject\veter\obj\Debug\veter.Properties.Resources.resources
+C:\Cproject\veter\obj\Debug\veter.csproj.GenerateResource.cache
+C:\Cproject\veter\obj\Debug\veter.csproj.CoreCompileInputs.cache
+C:\Cproject\veter\obj\Debug\veter.exe
+C:\Cproject\veter\obj\Debug\veter.pdb
